@@ -1,0 +1,48 @@
+#main{
+    position: fixed;
+    width: 200px;
+    height: 100px;
+    padding: 10px 100px 150px 100px;
+    margin: 5% 5% 0% 15%;
+    border: 2px solid rgb(66, 163, 170);
+    /* background-color: rgb(104, 110, 98); */
+}
+
+h2{
+    margin-top: 10px;
+    color : rgb(66, 163, 170);
+    text-align: center;
+    border-bottom: 1px solid rgb(66, 163, 170);
+}
+h3{
+    margin: 50px 0 -5px 25px;
+    /* text-align: center; */
+}
+#watchBtn{
+    margin: 30px 0 0 0px;
+    display: flex;
+    height: 22px;
+    width: 200px;
+    /* background-color: blueviolet; */
+    justify-content: space-between;
+    text-align: center;
+}
+
+button{
+    color: white;
+    cursor: pointer;
+}
+#startBtn{
+    /* margin: 20px; */
+    background-color: rgb(70, 122, 70);
+}
+
+#stopBtn{
+    /* margin: 20px; */
+    background-color: rgb(60, 133, 115);
+}
+
+#resetBtn{
+    /* margin: 20px; */
+    background-color: rgb(211, 90, 90);
+}
